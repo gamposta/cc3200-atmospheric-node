@@ -41,6 +41,7 @@
 *.su
 *.idb
 *.pdb
+http_client_demo/Debug/
 
 # Kernel Module Compile Results
 *.mod*
